@@ -51,6 +51,8 @@ git clone https://github.com/yourusername/fluid-walker.git
 cd fluid-walker
 npm install
 npm run dev
+
+
 🎨 Credits & Inspirations
 
 · Soundtrack inspiration: Experience by Ludovico Einaudi (remixed spatially).
